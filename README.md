@@ -3,16 +3,26 @@
 This repo contains our course project for **TDT4259 – Applied Data Science**.  
 We explore the relationship between social media usage and productivity using Python.
 
-## Repo structure
-TDT4259-Group47/
-├─ data/ # local only (ignored by git)
-│ └─ social_media_vs_productivity.csv
-├─ notebooks/
-│ └─ EDA.ipynb # first exploratory notebook
-├─ reports/
-│ └─ figures/ # exported plots for report
-├─ requirements.txt
-└─ .gitignore
+## Table of Contents
+- [Project Overview](#tdt4259--group-47-social-media-vs-productivity)
+- [Repo Structure](#repo-structure)
+- [Setup](#setup-vs-code-recommended)
+- [Add the Dataset](#add-the-dataset)
+- [Run the Notebook](#run-the-notebook)
+- [Basic Git Workflow](#basic-git-workflow)
+- [Collaborators](#collaborators)
+- [Notes](#notes)
+
+
+## Repo Structure
+
+- [`notebooks/`](notebooks/)
+  - [`EDA.ipynb`](notebooks/EDA.ipynb)
+- [`reports/`](reports/)
+  - [`figures/`](reports/figures/)
+- [`data/`](data/) _(local folder, ignored by git)_
+- [`requirements.txt`](requirements.txt)
+- [`.gitignore`](.gitignore)
 
 
 ## Setup (VS Code recommended)
